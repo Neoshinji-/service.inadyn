@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- INADYN -->
+  <string id="1000">INADYN</string>
+  <string id="1010">Mode de configuració del servidor DDNS</string>
+  <string id="1011">Automàtic</string>
+  <string id="1012">Manual</string>
+  <string id="1013">Nom servidor</string>
+  <string id="1014">URL servidor</string>
+  <string id="1020">Arranca INADYN a l'inici</string>
+  <string id="1021">Proveïdors DDNS</string>
+  <string id="1022">Freqüència de comprovació de la IP (minuts)</string>
+  <string id="1023">Hostname</string>
+  <string id="1024">Nom usuari</string>
+  <string id="1025">Clau de pas</string>
+  <string id="1026">Nivell depuració</string>
+  <string id="1027">[I]Arxiu de registre: ~/.xbmc/userdata/addon_data/service.inadyn/inadyn.log[/I]</string>  
+</strings>
